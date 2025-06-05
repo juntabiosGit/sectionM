@@ -38,6 +38,7 @@ public class Activity1 {
       System.out.println("Kyle Neil Orolfo - BSIT 2M");
       System.out.println("Stephen Rey Laygan BSIT 2M");
       System.out.println("Mykah Gabejan - BSIT 2M");
+      System.out.println("Mykah Gabejan - BSIT 2M");
 
     }
 }
